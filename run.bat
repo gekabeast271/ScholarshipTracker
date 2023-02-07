@@ -1,0 +1,1 @@
+java -jar F:\Create\ScholarshipTracker\ScholarshipTracker.jar
